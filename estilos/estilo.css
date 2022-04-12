@@ -1,0 +1,128 @@
+h1{
+    text-align: center;
+}
+:root{
+    --color-Mate: #0d89ed;
+    --color-Valen: #edaf0d;
+    --color-FYQ: #0dedb7;
+    --color-Reli: hotpink;
+    --color-Bio: #26ed0d;
+    --color-Ing: #7d0ded;
+    --color-IngOr: #ab0ded;
+    --color-Cast: #ed0d0d;
+    --color-Histo: #1a832d;
+    --color-EF: khaki;
+    --color-Tuto: lightblue;
+    --color-Infor: #c4ee0f;
+    --color-Patio: lightslategray;
+    --color-Dia: mistyrose;
+    --color-Hora: olive;
+}
+.Mate{
+    background-color: var(--color-Mate)
+}
+.Valen{
+    background-color: var(--color-Valen)
+}
+.FYQ{
+    background-color: var(--color-FYQ);
+}
+.Reli{
+    background-color: var(--color-Reli);
+}
+.Bio{
+    background-color: var(--color-Bio) ;
+}
+.Ing{
+    background-color: var(--color-Ing);
+}
+.IngOr{
+    background-color: var(--color-IngOr);
+}
+.Cast{
+    background-color: var(--color-Cast);
+}
+.Histo{
+    background-color: var(--color-Histo);
+} 
+.EF{
+    background-color: var(--color-EF);
+}
+.Tuto{
+    background-color: var(--color-Tuto);
+}
+.Infor{
+    background-color: var(--color-Infor);
+}
+.Patio{
+    background-color: var(--color-Patio);
+}
+.Dia{
+    background-color: var(--color-Dia);
+}
+.Hora{
+    background-color: var(--color-Hora);
+}
+#Table2{
+    text-align: center;
+    margin: 30px auto;
+    border-color: black;
+    width: 720px;
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+#Table1{
+    margin: 0 auto;
+    border-color: black;
+    width: 720px;
+}
+.celdacolor{
+    height: 20px;
+    width: 10px;
+}
+#Mate{
+    background-color: var(--color-Mate);
+}
+#FYQ{
+    background-color: var(--color-FYQ);
+}
+#Ing{
+    background-color: var(--color-Ing);
+}
+#Histo{
+    background-color: var(--color-Histo);
+}
+#IngOr{
+    background-color: var(--color-IngOr);
+}
+#Inf{
+    background-color: var(--color-Infor);
+}
+#Valen{
+    background-color: var(--color-Valen);
+}
+#Reli{
+    background-color: var(--color-Reli);
+}
+#Caste{
+    background-color: var(--color-Cast);
+}
+#Tuto{
+    background-color: var(--color-Tuto);
+}
+#EF{
+    background-color: var(--color-EF);
+}
+#Bio{
+    background-color: var(--color-Bio);
+}
+#Pat{
+    background-color: var(--color-Patio);
+}
+#Table2 td, th{
+    border: 3px solid black;
+    margin: 30px auto;
+}
+body{
+    font-family: 'Roboto Condensed', sans-serif;;
+}
